@@ -1,0 +1,19 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - cluster      
+  - imageio     
+  - imagesize     
+  - importlib-metadata     
+  - kmeans-pytorch         
+  - matplotlib      
+  - notebook       
+  - numpy    
+  - numpydoc   
+  - opencv-python  
+  - openpyxl    
+  - packaging 
+  - scikit-image     
+  - scikit-learn       
+  - watermark  
